@@ -1,5 +1,5 @@
 # Puissance-4
-Puissance 4 made with pygame in Python
+Puissance 4 (PvP) made with pygame in Python
 
 # Screenshots
 
